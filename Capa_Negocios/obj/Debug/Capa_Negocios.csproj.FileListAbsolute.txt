@@ -1,0 +1,11 @@
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\bin\Debug\Capa_Negocios.dll
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\bin\Debug\Capa_Negocios.pdb
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\bin\Debug\Capa_Datos.dll
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\bin\Debug\Capa_Entidad.dll
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\bin\Debug\Capa_Datos.pdb
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\bin\Debug\Capa_Entidad.pdb
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.AssemblyReference.cache
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CoreCompileInputs.cache
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CopyComplete
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\obj\Debug\Capa_Negocios.dll
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Negocios\obj\Debug\Capa_Negocios.pdb

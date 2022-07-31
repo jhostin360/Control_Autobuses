@@ -1,0 +1,6 @@
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\jhost\source\repos\Control_Autobuses\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
